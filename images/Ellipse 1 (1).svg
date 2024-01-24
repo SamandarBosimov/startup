@@ -1,0 +1,13 @@
+<svg width="76" height="76" viewBox="0 0 76 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="76" height="76" fill="#E5E5E5"/>
+<g id="startup" clip-path="url(#clip0_0_1)">
+<rect width="1400" height="5666" transform="translate(-322 -903)" fill="white"/>
+<circle id="Ellipse 1" cx="38" cy="38" r="38" fill="#C1301D"/>
+<path id="A" d="M40.168 22.1602L50.2461 53H46.3594L43.957 45.5195H30.5195L28.1172 53H24.2305L34.3086 22.1602H40.168ZM31.0469 43.5273H43.4297L37.2383 24.5625L31.0469 43.5273Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1400" height="5666" fill="white" transform="translate(-322 -903)"/>
+</clipPath>
+</defs>
+</svg>
